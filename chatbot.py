@@ -6,6 +6,7 @@ def simple_chatbot():
 
         if "hello" in user_input or "hi" in user_input:
             print("Bot: Hello there! How can I help you today?")
+
         elif "how are you" in user_input:
             print("Bot: I'm just a bunch of code, but I'm doing great! How about you?")
         elif "your name" in user_input:
